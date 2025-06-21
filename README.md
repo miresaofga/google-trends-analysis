@@ -55,6 +55,6 @@ Analyze sentiment related to travel searches to understand the emotional drivers
 
 
 
-Miresa ofga 
-miresaofga1@gmail.com
-linkedin.com/in/miresaofga
+Miresa ofga **
+miresaofga1@gmail.com **
+linkedin.com/in/miresaofga **
