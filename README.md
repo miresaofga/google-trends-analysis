@@ -21,15 +21,15 @@ Understanding the evolving travel preferences of younger generations (millennial
 5. # Exploratory Data Analysis (EDA):
 6. Exploratory data analysis was performed to understand the basic characteristics of the data. Specifically, I identified top trending travel destinations among millennials and Gen Z, analyzed seasonal travel patterns, and compared search interest for different types of travel (sustainable vs. conventional tourism).
 7. # Time Series Modeling
-8. Used the Prophet model to predict future search volume for flights and accommodations in top trending destinations, as well as search interest in sustainable travel options**. The model was trained on historical data from 2016-2021 and evaluated using data from 2019. Model performance was assessed using Mean Absolute Percentage Error (MAPE).
+8. Used the Prophet model to predict future search volume for flights and accommodations in top trending destinations, as well as search interest in sustainable travel options. The model was trained on historical data from 2016-2021 and evaluated using data from 2021. Model performance was assessed using Mean Absolute Percentage Error (MAPE).
 # Visualization
    Created visualizations to illustrate travel trends among younger generations, compare search volume for different destinations and travel types, and show the accuracy of the Prophet model in predicting future demand.
 
 # Results
 
-. Identified Iceland, Costa Rica, and Slovenia as the top 3 emerging travel destinations in Europe and North America for millennials and Gen Z in 2019, based on search interest growth for sustainable and experience-based travel options.
-. The time series model accurately predicted search volume for flights to Iceland with a Mean Absolute Percentage Error (MAPE) of 8.5%, demonstrating the potential for using Google Trends data to forecast travel demand.
-. Search interest in "eco-tourism" and "responsible travel" increased by 35% between 2016 and 2021, indicating a growing preference for sustainable travel options among younger generations.
+* Identified Iceland, Costa Rica, and Slovenia as the top 3 emerging travel destinations in Europe and North America for millennials and Gen Z in 2019, based on search interest growth for sustainable and experience-based travel options.
+* The time series model accurately predicted search volume for flights to Iceland with a Mean Absolute Percentage Error (MAPE) of 8.5%, demonstrating the potential for using Google Trends data to forecast travel demand.
+* Search interest in "eco-tourism" and "responsible travel" increased by 35% between 2016 and 2021, indicating a growing preference for sustainable travel options among younger generations.
 
 ## Skills Used
 
