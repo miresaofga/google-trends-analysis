@@ -43,9 +43,7 @@ Understanding the evolving travel preferences of younger generations (millennial
 # Source
 
  airline booking data, hotel occupancy rates, social media sentiment analysis) to improve the accuracy of the demand forecasting model.
-Try different time series models (e.g., ARIMA, LSTM) to compare their performance in predicting travel demand.
-Expand the analysis to other regions (e.g., Asia, South America) to identify global travel trends among younger generations.
-Analyze sentiment related to travel searches to understand the emotional drivers behind travel decisions.
+Try different time series models.
 
 
 
