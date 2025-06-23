@@ -40,13 +40,7 @@ Understanding the evolving travel preferences of younger generations (millennial
 * Matplotlib/Seaborn
 * Google Trends API
 
-## Code
-
-[Link to your Jupyter Notebook or Python script - you'll add this after uploading your code]
-
-## Visualizations (If Applicable)
-
-[If you have a Tableau Public visualization, link to it here. Otherwise, remove this section]
+# Source
 
  airline booking data, hotel occupancy rates, social media sentiment analysis) to improve the accuracy of the demand forecasting model.
 Try different time series models (e.g., ARIMA, LSTM) to compare their performance in predicting travel demand.
